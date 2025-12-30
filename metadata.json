@@ -1,0 +1,7 @@
+{
+  "name": "NeuroPath",
+  "description": "A high-impact learning platform for neurodivergent minds, re-formatting complex content into accessible summaries, high-contrast text, or logical step-by-step guides using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
