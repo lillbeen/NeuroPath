@@ -1,11 +1,8 @@
 # 🧠 NeuroPath: Aligning the World to How You Think
 
-[![[Deployed on Cloud Run]
-[![Built with Gemini]]
+[![[Deployed on Cloud Run] [![Built with AI Studio]]
 
 <div align="center">
-  <h1>NeuroPath</h1>
-  <p>Aligning the world to how you think.</p>
   <a href="https://neuropath-708270719350.us-west1.run.app">
     <img src="https://img.shields.io/badge/LAUNCH_APP-🚀-emerald?style=for-the-badge" alt="Launch App">
   </a>
