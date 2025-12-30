@@ -1,7 +1,7 @@
 # 🧠 NeuroPath: Aligning the World to How You Think
 
-[![Deployed on Cloud Run](https://neuropath-708270719350.us-west1.run.app)
-[![Built with Gemini]](https://aistudio.google.com/)
+[![[Deployed on Cloud Run]
+[![Built with Gemini]]
 
 > **"Information, Re-Imagined for Every Mind."**
 
