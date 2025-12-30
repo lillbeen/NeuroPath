@@ -3,6 +3,14 @@
 [![[Deployed on Cloud Run]
 [![Built with Gemini]]
 
+<div align="center">
+  <h1>NeuroPath</h1>
+  <p>Aligning the world to how you think.</p>
+  <a href="https://neuropath-708270719350.us-west1.run.app">
+    <img src="https://img.shields.io/badge/LAUNCH_APP-🚀-emerald?style=for-the-badge" alt="Launch App">
+  </a>
+</div>
+
 > **"Information, Re-Imagined for Every Mind."**
 
 NeuroPath is an AI-powered adaptive learning platform designed to dismantle the "cognitive walls" faced by the 1-in-5 people with ADHD, Dyslexia, or Autism. By re-architecting dense content into sensory-specific formats, we ensure that information is accessible to everyone, regardless of their neurological profile.
